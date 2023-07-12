@@ -1,0 +1,52 @@
+body{
+
+    background: url(https://wallpaperaccess.com/full/1948149.jpg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    
+    .heading{
+    
+     width: 900px;
+     height: 65px;
+     margin-left: 140px;
+     margin-top: 100px;
+     background:black;
+    }
+    
+    .heading h1{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+     text-align: center;
+    color: white; font-size: 50px;
+     border: 4px solid red;
+    }
+
+    
+    .one{
+    color:red;
+    text-align: center;
+
+    }
+    
+    .firstimage{
+    text-align: center;
+    padding: 50px;
+    }
+    
+    .two{
+    text-align: center; 
+    color: red;
+    }
+    
+    .secondimage{
+    text-align: center;
+    }
+    
+    .image{
+    width: 150px; height: 150px;
+    border-radius: 5px 5px 0px 0px; margin-left: 20px;
+    margin-top: 25px;
+    }
+    
